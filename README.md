@@ -1,6 +1,3 @@
-![](vertopal_9d900da77f2045308debd33eb8a22a5a/media/image1.png){width="7.513888888888889in"
-height="10.930555555555555in"}
-
 > A File Type Identifier using Magic Numbers is a legitimate
 > defensive-security and malware-analysis project. It detects when a
 > file\'s extension (.jpg, .png, .pdf) does not match its actual binary
