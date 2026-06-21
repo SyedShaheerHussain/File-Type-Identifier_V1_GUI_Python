@@ -16,6 +16,7 @@ In cybersecurity, attackers frequently disguise executable files or malicious sc
 
 This utility addresses that vulnerability by bypassing the file extension entirely. It reads the raw binary header (the first few bytes) of a file, matches it against a comprehensive signature database (**Magic Numbers**), compares the true identity with the user-facing file extension, and immediately flags any discrepancies or potential threats.
 
+# 📷 Screenshots 
 ![Screenshot 1](https://github.com/SyedShaheerHussain/File-Type-Identifier_V1_GUI_Python/blob/main/FileTypeIdentifierV1/screenshots/Screenshot%20(179).png)
 
 ![Screenshot 2](https://github.com/SyedShaheerHussain/File-Type-Identifier_V1_GUI_Python/blob/main/FileTypeIdentifierV1/screenshots/Screenshot%20(180).png)
